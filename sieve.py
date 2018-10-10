@@ -1,4 +1,4 @@
-import math
+import math #usefull stuff
 n=int(input())
 r=int(math.sqrt(n))
 l=[1 for i in range(2,n+1)]
